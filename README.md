@@ -14,7 +14,7 @@
   </p>
 </p>
 
-### Algorithm Contents
+## Algorithm Contents
 * Searching Algorithms
   * Linear Search
   * Binary Search
@@ -68,6 +68,7 @@ The Sorting Algorithm Visualizer window again has the option to change the searc
 #### &nbsp;&nbsp;&nbsp;&nbsp;Radix Sort
 &nbsp;&nbsp;&nbsp;&nbsp; ![Farmers Market Finder Demo](Demo/radix.gif)
 
+
 ### Backtracking Algorithms
 #### &nbsp;&nbsp;&nbsp;&nbsp;Sudoku
 &nbsp;&nbsp;&nbsp;&nbsp; ![Farmers Market Finder Demo](Demo/sudoku.gif)
@@ -75,3 +76,22 @@ The Sorting Algorithm Visualizer window again has the option to change the searc
 &nbsp;&nbsp;&nbsp;&nbsp; ![Farmers Market Finder Demo](Demo/nqueens.gif)
 #### &nbsp;&nbsp;&nbsp;&nbsp;Knight's Tour
 &nbsp;&nbsp;&nbsp;&nbsp; ![Farmers Market Finder Demo](Demo/knights.gif)
+
+## Requirements/Steps to run 
+  * Install [*__Python__*](https://www.python.org/downloads/)
+  * Install [*__Pygame Module__*](https://www.pygame.org/wiki/GettingStarted)
+  * Run Algorithm_visualizer (main).py
+
+## Future Additions / Upgrades
+  * Add DP Tables
+  * Add Graph Algorithms
+  * Add Pathfinding Algorithms
+  * Add sounds during sorting
+  * Make sudoku interactive
+  * Add Pause/Resume button on every visualization
+  
+## Contact
+Debdoot Roy Chowdhury - [LinkedIn](https://www.linkedin.com/in/debdootrc/) - roychowdhurydebdoot@gmail.com <br/>
+Project Link: [Algorithm Visualizer](https://github.com/DebRC/Algorithm-Visualizer)
+
+Thank You!
