@@ -80,7 +80,7 @@ The Sorting Algorithm Visualizer window again has the option to change the searc
 ## Requirements/Steps to run 
   * Install [*__Python__*](https://www.python.org/downloads/)
   * Install [*__Pygame Module__*](https://www.pygame.org/wiki/GettingStarted)
-  * Run Algorithm_visualizer (main).py
+  * Run Algorithm_Visualizer (main).py
 
 ## Future Additions / Upgrades
   * Add DP Tables
