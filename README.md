@@ -35,6 +35,7 @@
 
 ### Main Window
 The main window has two dropdown menus to select the Algorithm Type and Name which the user wants to visualize. By default, the Algorithm Name menu is set to None, but if an Algorithm Type is selected it will get automatically updated with the different algorithms of that type. The next button will take you to a new window depending on the algorithm selected. For exit, it will show a warning message to check if you really want to exit or not. Below a gif is shown demonstrating the main window.
+
 ![Farmers Market Finder Demo](Demo/main_window.gif)
 
 
