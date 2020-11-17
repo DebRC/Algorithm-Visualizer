@@ -35,3 +35,22 @@
 The main window has two dropdown menus to select the Algorithm Type and Name which the user wants to visualize. By default, the Algorithm Name menu is set to None, but if an Algorithm Type is selected it will get automatically updated with the different algorithms of that type. The next button will take you to a new window depending on the algorithm selected. For exit, it will show a warning message to check if you really want to exit or not. Below a gif is shown demonstrating the main window.
 
 ![Farmers Market Finder Demo](Demo/main_window.gif)
+
+
+### Searching Algorithm
+The Searching Algorithm Visualizer window again has the option to change the searching algorithm according to user needs (i.e. no need to go to the main window to change). Option to generate and shuffle the array is provided. A blank text box is given to enter the value of element user wants to search. The search button starts the searching operation. There's a label for showing number of comparisons and where the element is found after searching is done. Also an algorithm info section is given which will give necessary time complexity details of the searching algorithm. Button for going back to the main menu is also given. The searching is done on bar graphs with already checked elements marked with red and the searched element (if found) with green.
+#### &nbsp;&nbsp;&nbsp;&nbsp;Linear Search
+![Farmers Market Finder Demo](Demo/linear.gif)
+#### &nbsp;&nbsp;&nbsp;&nbsp;Binary Search
+![Farmers Market Finder Demo](Demo/binary.gif)
+
+### Sorting Algorithms
+#### &nbsp;&nbsp;&nbsp;&nbsp;Selection Sort
+#### &nbsp;&nbsp;&nbsp;&nbsp;Insertion Sort
+#### &nbsp;&nbsp;&nbsp;&nbsp;Bubble Sort
+#### &nbsp;&nbsp;&nbsp;&nbsp;Merge Sort
+#### &nbsp;&nbsp;&nbsp;&nbsp;Quick Sort
+#### &nbsp;&nbsp;&nbsp;&nbsp;Heap Sort
+#### &nbsp;&nbsp;&nbsp;&nbsp;Shell Sort
+#### &nbsp;&nbsp;&nbsp;&nbsp;Radix Sort
+
