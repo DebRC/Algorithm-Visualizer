@@ -32,14 +32,14 @@
   * N-Queens
   * Knight's Tour
 
+
 ### Main Window
 The main window has two dropdown menus to select the Algorithm Type and Name which the user wants to visualize. By default, the Algorithm Name menu is set to None, but if an Algorithm Type is selected it will get automatically updated with the different algorithms of that type. The next button will take you to a new window depending on the algorithm selected. For exit, it will show a warning message to check if you really want to exit or not. Below a gif is shown demonstrating the main window.
-
 ![Farmers Market Finder Demo](Demo/main_window.gif)
 
 
 ### Searching Algorithms
-The Searching Algorithm Visualizer window again has the option to change the searching algorithm according to user needs (i.e. no need to go to the main window to change). Option to generate and shuffle the array is provided. A blank text box is given to enter the value of element user wants to search. The search button starts the searching operation. There's a label for showing number of comparisons and where the element is found after searching is done. Also an algorithm info section is given which will give necessary time complexity details of the searching algorithm. Button for going back to the main menu is also given. The searching is done on bar graphs with already checked elements marked with red and the searched element (if found) with green.
+The Searching Algorithm Visualizer window again has the option to change the searching algorithm according to user needs (i.e. no need to go to the main window to change). Option to generate and shuffle the array is provided. A blank text box is given to enter the value of element user wants to search. The search button starts the searching operation. Slider for changing the size of the array and the speed of the visualization is provided. There's a label for showing number of comparisons and where the element is found after searching is done. Also an algorithm info section is given which will give necessary time complexity details of the searching algorithm. Button for going back to the main menu is also given. The searching is done on bar graphs with already checked elements marked with red and the searched element (if found) with green.
 #### &nbsp;&nbsp;&nbsp;&nbsp;Linear Search
 &nbsp;&nbsp;&nbsp;&nbsp; ![Farmers Market Finder Demo](Demo/linear.gif)
 #### &nbsp;&nbsp;&nbsp;&nbsp;Binary Search
@@ -47,7 +47,7 @@ The Searching Algorithm Visualizer window again has the option to change the sea
 
 
 ### Sorting Algorithms
-The Sorting Algorithm Visualizer window again has the option to change the searching algorithm according to user needs (i.e. no need to go to the main window to change). Option to generate and shuffle the array is provided. __Two options are given to choose the type of visualization user wants to see. One using bar graph and other is colour bars.__ The sort button starts the sorting operation. There's a label for showing number of comparisons done after each operation. Also an algorithm info section is given which will give necessary time complexity details of the sorting algorithm. Button for going back to the main menu is also given. Once the sorting is done the entire array (bars) is painted green.
+The Sorting Algorithm Visualizer window again has the option to change the searching algorithm according to user needs (i.e. no need to go to the main window to change). Option to generate and shuffle the array is provided. __Two options are given to choose the type of visualization user wants to see. One using bar graph and other is colour bars.__ The sort button starts the sorting operation. Slider for changing the size of the array and the speed of the visualization is provided. There's a label for showing number of comparisons done after each operation. Also an algorithm info section is given which will give necessary time complexity details of the sorting algorithm. Button for going back to the main menu is also given. Once the sorting is done the entire array (bars) is painted green.
 #### &nbsp;&nbsp;&nbsp;&nbsp;Sorting Algorithm Visualizer Interface
 &nbsp;&nbsp;&nbsp;&nbsp; ![Farmers Market Finder Demo](Demo/sorting_interface.gif)
 #### &nbsp;&nbsp;&nbsp;&nbsp;Selection Sort
@@ -66,3 +66,11 @@ The Sorting Algorithm Visualizer window again has the option to change the searc
 &nbsp;&nbsp;&nbsp;&nbsp; ![Farmers Market Finder Demo](Demo/shell.gif)
 #### &nbsp;&nbsp;&nbsp;&nbsp;Radix Sort
 &nbsp;&nbsp;&nbsp;&nbsp; ![Farmers Market Finder Demo](Demo/radix.gif)
+
+### Backtracking Algorithms
+#### &nbsp;&nbsp;&nbsp;&nbsp;Sudoku
+&nbsp;&nbsp;&nbsp;&nbsp; ![Farmers Market Finder Demo](Demo/sudoku.gif)
+#### &nbsp;&nbsp;&nbsp;&nbsp;N-Queens
+&nbsp;&nbsp;&nbsp;&nbsp; ![Farmers Market Finder Demo](Demo/nqueens.gif)
+#### &nbsp;&nbsp;&nbsp;&nbsp;Knight's Tour
+&nbsp;&nbsp;&nbsp;&nbsp; ![Farmers Market Finder Demo](Demo/knights.gif)
